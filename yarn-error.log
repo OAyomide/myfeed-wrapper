@@ -1,5 +1,5 @@
 Arguments: 
-  /home/ayomide/.nvm/versions/node/v10.11.0/bin/node /home/ayomide/.yarn/bin/yarn.js add nodemon babel-cli babel-preset-dev babel-preset-stage-2 --dev
+  /home/ayomide/.nvm/versions/node/v10.11.0/bin/node /home/ayomide/.yarn/bin/yarn.js add nodemon babel-cli babel-preset-env babel-preset-stage-2 --dev
 
 PATH: 
   /home/ayomide/.nvm/versions/node/v10.11.0/bin:/home/ayomide/.yarn/bin:/home/ayomide/.config/yarn/global/node_modules/.bin:~/.config/composer/vendor/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/local/go/bin:/home/ayomide/Android/Sdk/tools:/home/ayomide/Android/Sdk/platform-tools:/home/ayomide/Desktop/go/bin
